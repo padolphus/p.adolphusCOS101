@@ -1,3 +1,3 @@
 fn fn main() {
-	println!("welcome to cos 101!fn");
+	println!("welcome to cos 101!");
 }
